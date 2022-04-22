@@ -40,5 +40,5 @@ it = dynamics.get_divergency_iter()
 
 ## Examples
 
-The [examples](examples) foldes contains a full example in `.py` and `ipynb`
+The [examples](examples) foldes contains a full example in `.py` and `.ipynb`
 format to visualize the Mandelbrot set.
