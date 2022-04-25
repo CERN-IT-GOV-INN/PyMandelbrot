@@ -6,8 +6,13 @@
 Welcome to PyMandelbrot's documentation!
 ========================================
 
+.. image:: mandelbrot_set.png
+   :width: 500
+   :alt: Mandelbrot set
+   :align: center
+
 .. image:: https://img.shields.io/badge/CERN-Open%20Source-%232980b9.svg
-      :target: https://home.cern
+   :target: https://home.cern
 
 .. image:: https://img.shields.io/badge/CERN-CERN%20openlab-brightgreen
    :target: https://openlab.cern/

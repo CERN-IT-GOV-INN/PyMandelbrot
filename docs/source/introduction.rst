@@ -29,16 +29,14 @@ Fractal images are amazing, but where do they come from?
 How to cite ``PyMandelbrot``?
 =============================
 
-More instruction coming ...
+More instruction coming after first release ...
 
-.. csv-table:: CSV Table Title
-   :header: "Ingredient", "Quantity", "Description"
-   :widths: 15, 10, 30 
+How to contribute?
+------------------
 
-   "Albatross", 2.99, "On a stick!"
-   "Popcorn", 1.99, "Straight from the oven"
+More instruction after first release ...
 
 FAQ
 ===
 
-Refer to READMES and docstrings for more information.
+Refer to examples in the [GitHub](https://github.com/openlab-test/example-repo.git) page for more information.
