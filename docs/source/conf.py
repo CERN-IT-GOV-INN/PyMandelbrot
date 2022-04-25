@@ -34,7 +34,6 @@ extensions = [
     'sphinxcontrib.napoleon',
     'sphinx.ext.autodoc',
     'sphinx.ext.viewcode',
-    # 'numpydoc',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -59,6 +58,3 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 html_show_sourcelink = True
-
-# Documenting class methods in the class docstring is not mandatory
-# numpydoc_show_class_members = False
