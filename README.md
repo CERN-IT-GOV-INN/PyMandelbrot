@@ -2,6 +2,11 @@
 
 This package helps visualizing the Mandelbrot set.
 
+## Documentation
+
+The documentation for PyMandelbrot can be consulted in the readthedocs page:
+(pymandelbrot.readthedocs.io)[https://pymandelbrot.readthedocs.io/en/latest/]
+
 ## How to install
 
 The package can be installed with Python's pip package manager.
