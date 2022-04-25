@@ -29,7 +29,25 @@ Fractal images are amazing, but where do they come from?
 How to cite ``PyMandelbrot``?
 =============================
 
-More instruction coming after first release ...
+When using this software in your research, please cite the following publication:
+
+.. image:: https://zenodo.org/badge/484051775.svg
+   :target: https://zenodo.org/badge/latestdoi/484051775
+
+Bibtex:
+
+.. code-block:: latex
+
+  @software{marco_rossi_2022_6483493,
+    author       = {Marco Rossi},
+    title        = {openlab-test/example-repo: 1.0.0-rc},
+    month        = apr,
+    year         = 2022,
+    publisher    = {Zenodo},
+    version      = {1.0.0-rc},
+    doi          = {10.5281/zenodo.6483493},
+    url          = {https://doi.org/10.5281/zenodo.6483493}
+  }
 
 How to contribute?
 ------------------
@@ -39,4 +57,6 @@ More instruction after first release ...
 FAQ
 ===
 
-Refer to examples in the [GitHub](https://github.com/openlab-test/example-repo.git) page for more information.
+Refer to examples in the
+`GitHub <https://github.com/openlab-test/example-repo/tree/main/examples>`_ page for more
+information.

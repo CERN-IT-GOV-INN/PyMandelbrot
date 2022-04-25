@@ -17,6 +17,9 @@ Welcome to PyMandelbrot's documentation!
 .. image:: https://img.shields.io/badge/CERN-CERN%20openlab-brightgreen
    :target: https://openlab.cern/
 
+.. image:: https://zenodo.org/badge/484051775.svg
+   :target: https://zenodo.org/badge/latestdoi/484051775
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
