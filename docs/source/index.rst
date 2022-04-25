@@ -6,15 +6,22 @@
 Welcome to PyMandelbrot's documentation!
 ========================================
 
+.. image:: https://img.shields.io/badge/CERN-Open%20Source-%232980b9.svg
+      :target: https://home.cern
+
+.. image:: https://img.shields.io/badge/CERN-CERN%20openlab-brightgreen
+   :target: https://openlab.cern/
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
+   introduction
 
 Indices and tables
-==================
+******************
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
