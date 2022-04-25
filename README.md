@@ -2,6 +2,11 @@
 
 This package helps visualizing the Mandelbrot set.
 
+## Documentation
+
+The documentation for PyMandelbrot can be consulted in the readthedocs page:
+(pymandelbrot.readthedocs.io)[https://pymandelbrot.readthedocs.io/en/latest/]
+
 ## How to install
 
 The package can be installed with Python's pip package manager.
@@ -20,7 +25,7 @@ In a python script, just import the `MandelbrotDynamics` class defined in the
 `PyMandelbrot` package:
 
 ```python
-from PyMandelbrot import MandelbrotDynamics
+from PyMandelbrot.mandelbrot import MandelbrotDynamics
 
 z0s = np.zeros_like(c) # starting point
 cs = np.linspace(-1,1,10) # offset parameter
@@ -40,5 +45,5 @@ it = dynamics.get_divergency_iter()
 
 ## Examples
 
-The [examples](examples) foldes contains a full example in `.py` and `ipynb`
+The [examples](examples) foldes contains a full example in `.py` and `.ipynb`
 format to visualize the Mandelbrot set.
