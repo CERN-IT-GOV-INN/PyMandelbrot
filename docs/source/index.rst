@@ -18,6 +18,12 @@ Welcome to PyMandelbrot's documentation!
 
    introduction
 
+.. toctree::
+   :maxdepth: 2
+   :caption: API:
+
+   modules
+
 Indices and tables
 ******************
 
