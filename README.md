@@ -20,7 +20,7 @@ In a python script, just import the `MandelbrotDynamics` class defined in the
 `PyMandelbrot` package:
 
 ```python
-from PyMandelbrot import MandelbrotDynamics
+from PyMandelbrot.mandelbrot import MandelbrotDynamics
 
 z0s = np.zeros_like(c) # starting point
 cs = np.linspace(-1,1,10) # offset parameter
