@@ -1,1 +1,26 @@
-# add software citation here
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: PyMandelbrot
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Marco
+    family-names: Rossi
+    email: marco.rossi@cern.ch
+    affiliation: CERN openlab
+    orcid: 'https://orcid.org/0000-0002-7882-2798'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.6483600
+    description: >-
+      "The versioned DOI for version 1.0.0 of the
+      work."
+  - type: url
+    value: 'https://github.com/openlab-test/example-repo'
+    description: The homepage for the project
+repository-code: 'https://github.com/openlab-test/example-repo.git'
+license: MIT
+version: 1.0.0
+date-released: '2022-04-26'

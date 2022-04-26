@@ -1,3 +1,8 @@
+[![DOI](https://zenodo.org/badge/484051775.svg)](https://zenodo.org/badge/latestdoi/484051775)
+
+[![Made at CERN!](https://img.shields.io/badge/CERN-Open%20Source-%232980b9.svg)](https://home.cern) [![Made at CERN!](https://img.shields.io/badge/CERN-CERN%20openlab-brightgreen)](https://openlab.cern/)
+[![Documentation Status](https://readthedocs.org/projects/pymandelbrot/badge/?version=latest)](https://pymandelbrot.readthedocs.io/en/latest/?badge=latest)
+
 # PyMandelbrot - Mandelbrot Set Visualizer with Python
 
 This package helps visualizing the Mandelbrot set.
