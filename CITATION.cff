@@ -6,7 +6,7 @@ title: PyMandelbrot
 message: 'If you use this software, please cite it as below.'
 type: software
 authors:
-  - name-particle: Marco
+  - given-names: Marco
     family-names: Rossi
     email: marco.rossi@cern.ch
     affiliation: CERN openlab
