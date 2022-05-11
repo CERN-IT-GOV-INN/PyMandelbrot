@@ -1,0 +1,19 @@
+# This reana.yaml specification file can be used to run the PyMandelbrot
+# example automatically on the REANA reproducible analysis platform.
+#
+# Please see https://www.reana.io for more information.
+
+inputs:
+  files:
+    - examples/plot_example.py
+    - reana.yaml
+workflow:
+  type: serial
+  specification:
+    steps:
+      - environment: tiborsimko/pymandelbrot:1.0.0
+        commands:
+          - python examples/plot_example.py -o plot_example.png
+outputs:
+  files:
+   - plot_example.png
