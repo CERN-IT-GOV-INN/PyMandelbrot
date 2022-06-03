@@ -11,10 +11,13 @@ Welcome to PyMandelbrot's documentation!
    :alt: Mandelbrot set
    :align: center
 
-.. image:: https://img.shields.io/badge/CERN-Open%20Source-%232980b9.svg
+.. image:: https://img.shields.io/badge/CERN-Open%20Source-orange 
    :target: https://home.cern
 
-.. image:: https://img.shields.io/badge/CERN-CERN%20openlab-brightgreen
+.. image:: https://img.shields.io/badge/CERN-Innovation-purple
+   :target: https://information-technology.web.cern.ch/about/organisation/strategy-executive-governance
+
+.. image:: https://img.shields.io/badge/CERN-CERN%20openlab-blue
    :target: https://openlab.cern/
 
 .. image:: https://zenodo.org/badge/484051775.svg
