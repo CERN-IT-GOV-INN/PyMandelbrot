@@ -12,7 +12,7 @@ import argparse
 from pathlib import Path
 import numpy as np
 import matplotlib.pyplot as plt
-from PyMandelbrot import MandelbrotDynamics
+from PyMandelbrot.mandelbrot import MandelbrotDynamics
 
 
 def plot_mandelbrot(fname: Path):

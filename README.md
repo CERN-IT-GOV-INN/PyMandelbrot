@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/484051775.svg)](https://zenodo.org/badge/latestdoi/484051775)
+[![Launch on REANA@CERN](https://www.reana.io/static/img/badges/launch-on-reana-at-cern.svg)](https://reana.cern.ch/launch?url=https%3A%2F%2Fgithub.com%2Fopenlab-test%2Fexample-repo&name=pymandelbrot-example)
 
 [![Made at CERN!](https://img.shields.io/badge/CERN-OpenSource-orange)](https://home.cern)
 [![Made at CERN!](https://img.shields.io/badge/CERN-Innovation-purple)](https://information-technology.web.cern.ch/about/organisation/strategy-executive-governance)
